@@ -13,7 +13,7 @@ def anime():
     """Return homepage."""
     return render_template('anime.html')
 
-@app.route('/about')
-def about():
+@app.route('/AboutAnime')
+def AboutAnime():
     """Return homepage."""
-    return render_template('about.html')
+    return render_template('AboutAnime.html')
