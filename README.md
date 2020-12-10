@@ -15,3 +15,5 @@ Then you want to run the container by building it too. Make sure its 5000 since 
 ```docker run -d -p 5000:5000 Weeb-Page```
 Then do this line ```docker ps -a``` To check and see if its running
 
+## Badges
+Website monitoring ![Website](https://img.shields.io/website?down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fcapstone.dev.xurdahvo.me%2F)
