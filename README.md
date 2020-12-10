@@ -20,3 +20,4 @@ Website monitoring ![Website](https://img.shields.io/website?down_message=offlin
 
 Docker Image size ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/rasenku/capstone?sort=date)
 
+Docker Build Status ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/rasenku/capstone)
